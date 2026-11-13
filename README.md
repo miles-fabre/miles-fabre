@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Miles 👋
+Cybersecurity student at Augusta University (B.S. Cybersecurity, Business Administration minor, expected May 2028).
+I do IT support, build hands-on cyber training for students, and make small web apps that solve real problems.
 
-<!--
-**miles-fabre/miles-fabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Projects
+- **1828 Ambassador Tracker** – Firebase web app tracking hours/points for 28 campus ambassadors, with a live leaderboard
+- **Virtualization Home Lab** – Ubuntu & Windows Server VMs on Apple Silicon using x86 emulation
+- **Park Primer** – informational site for first-time national park visitors (HTML/CSS)
 
-Here are some ideas to get you started:
+### 🛠️ Tools
+Python · JavaScript · HTML/CSS · Firebase · Wireshark · Metasploit · OpenVAS · VMware Fusion · UTM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/miles-fabre)
